@@ -6,8 +6,7 @@
     "build": "hexo clean && hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
-    "install": "yarn install --frozen-lockfile"
+    "server": "hexo server"
   },
   "hexo": {
     "version": "8.0.0"
